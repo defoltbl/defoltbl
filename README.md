@@ -1,16 +1,95 @@
-## Hi there 👋
+<h1 align="center">👋 Andrii Maksymenko</h1>
 
-<!--
-**defoltbl/defoltbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🇺🇦 &rarr; 🇨🇿 &nbsp;|&nbsp; Based in Prague / Mladá Boleslav, Czech Republic
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Junior Software Developer &ndash; backend &amp; cloud, with a research background in AI/ML
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/🟢_Open_to_junior_roles_in_Prague-on--site_·_hybrid_·_remote-2EA043?style=flat-square" alt="Open to work" />
+</p>
+
+<p align="center">
+  <a href="https://andrii-maksymenko.com">
+    <img src="https://img.shields.io/badge/Portfolio-andrii--maksymenko.com-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/andrii-maksymenko-83628932a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:andrii.maksymenko.d@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About
+
+MSc in Computer Science (Honours), relocated from Ukraine to the Czech Republic and now building backend services and cloud-deployed APIs in Prague. **Python is my primary language**, with **Kotlin** for backend and Android work, and a research background in reinforcement learning and applied AI/ML.
+
+- Backend APIs in Python (FastAPI) and Kotlin (Ktor) &ndash; containerized, tested, and CI-driven
+- PostgreSQL data layers, including vector search with pgvector
+- Applied AI/ML: reinforcement learning agents and local RAG systems
+- Focused on backend engineering and cloud, with an ongoing interest in AI/ML research
+
+### 🛠️ Tech stack
+
+**Languages** &nbsp;&middot;&nbsp; Python is my primary language
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,kotlin,js,html,css" />
+</p>
+
+**AI / Machine Learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
+
+PyTorch, OpenAI Gym, Reinforcement Learning (PPO, DQN, A2C), Behavioral Cloning, CNNs, Retrieval-Augmented Generation (RAG), LLM integration (Ollama), text embeddings, vector search
+
+**Backend &amp; cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,azure,githubactions" />
+</p>
+
+FastAPI, Ktor, REST APIs, Server-Sent Events (streaming), JWT authentication, Docker Compose, GitHub Actions (CI/CD)
+
+**Frontend &amp; mobile**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,astro,androidstudio,firebase" />
+</p>
+
+React, Vite, Astro; Android SDK and Firebase (Auth, Realtime DB, Storage) with MVVM
+
+**Databases &amp; tooling**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,git,linux,vscode,idea" />
+</p>
+
+PostgreSQL &ndash; schema design, JOINs, views, stored procedures (PL/pgSQL), triggers; pgvector similarity search
+
+---
+
+### 📌 Featured projects
+
+**[local-rag-assistant](https://github.com/defoltbl/local-rag-assistant)** &ndash; Local RAG document assistant: ask questions about your PDFs, answered and cited entirely on your machine. FastAPI + Ollama backend, PostgreSQL/pgvector storage, streaming citations over SSE, React 19 frontend, fully containerized with a GitHub Actions CI pipeline.
+
+**[expense-tracker-api](https://github.com/defoltbl/expense-tracker-api)** &ndash; Kotlin/Ktor REST API with PostgreSQL persistence, deployed to Azure. JWT refresh tokens, rate limiting, email verification, and password reset, with CI running tests against a real Postgres service container.
+
+**[ms-pacman-hybridea](https://github.com/defoltbl/ms-pacman-hybridea)** &ndash; HYBRIDEA: a hybrid Behavioral Cloning + PPO reinforcement learning agent for Ms. Pac-Man, benchmarked against DQN, PPO, A2C, Monte Carlo, and BC. Built in Python/PyTorch (MSc thesis).
+
+**[personal-finance-tracker](https://github.com/defoltbl/personal-finance-tracker)** &ndash; Android finance tracker with income/expense logging, budgeting, and Firebase auth. Built with Kotlin and MVVM.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=defoltbl&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defoltbl&layout=compact&hide_border=true&theme=dark" alt="Top languages" height="150" />
+</p>
