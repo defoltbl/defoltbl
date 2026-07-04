@@ -86,10 +86,3 @@ PostgreSQL &ndash; schema design, JOINs, views, stored procedures (PL/pgSQL), tr
 **[ms-pacman-hybridea](https://github.com/defoltbl/ms-pacman-hybridea)** &ndash; HYBRIDEA: a hybrid Behavioral Cloning + PPO reinforcement learning agent for Ms. Pac-Man, benchmarked against DQN, PPO, A2C, Monte Carlo, and BC. Built in Python/PyTorch (MSc thesis).
 
 **[personal-finance-tracker](https://github.com/defoltbl/personal-finance-tracker)** &ndash; Android finance tracker with income/expense logging, budgeting, and Firebase auth. Built with Kotlin and MVVM.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=defoltbl&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defoltbl&layout=compact&hide_border=true&theme=dark" alt="Top languages" height="150" />
-</p>
