@@ -26,15 +26,6 @@
 
 ---
 
-### 👨‍💻 About
-
-MSc in Computer Science (Honours), relocated from Ukraine to the Czech Republic and now building backend services and cloud-deployed APIs in Prague. **Python is my primary language**, with **Kotlin** for backend and Android work, and a research background in reinforcement learning and applied AI/ML.
-
-- Backend APIs in Python (FastAPI) and Kotlin (Ktor) &ndash; containerized, tested, and CI-driven
-- PostgreSQL data layers, including vector search with pgvector
-- Applied AI/ML: reinforcement learning agents and local RAG systems
-- Focused on backend engineering and cloud, with an ongoing interest in AI/ML research
-
 ### 🛠️ Tech stack
 
 **Languages** &nbsp;&middot;&nbsp; Python is my primary language
