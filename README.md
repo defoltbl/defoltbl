@@ -28,7 +28,7 @@
 
 ### 🛠️ Tech stack
 
-**Languages** &nbsp;&middot;&nbsp; Python is my primary language
+**Languages** &nbsp;&middot;&nbsp;
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,kotlin,js,html,css" />
