@@ -28,7 +28,7 @@
 
 ### 🛠️ Tech stack
 
-**Languages** &nbsp;&middot;&nbsp;
+**Languages**
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,kotlin,js,html,css" />
