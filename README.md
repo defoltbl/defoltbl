@@ -27,15 +27,3 @@ MSc in Computer Science (with Honours) · research presented at two internationa
 | **Desktop & mobile** | <img src="https://skillicons.dev/icons?i=qt,apple,androidstudio,firebase" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,sqlite" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,linux,vscode,idea" /> |
-
-## Case studies
-
-The code is in the pinned repositories below; these pages explain the decisions behind it.
-
-| Project | Highlight | |
-|---|---|---|
-| **JobHelper** | Five Claude agents; every text the model writes is checked against the CV in plain code; 1,900+ tests in CI | [Read →](https://andrii-maksymenko.com/projects/jobhelper/) |
-| **Local RAG Assistant** | Page-cited answers, fully on-device; the model sits behind one swappable interface | [Read →](https://andrii-maksymenko.com/projects/local-rag-assistant/) |
-| **Expense Tracker API** | Live on Azure; each query scoped to the user in the verified token, never the request | [Read →](https://andrii-maksymenko.com/projects/expense-tracker-api/) |
-| **HYBRIDEA** | Best of six agents in Ms. Pac-Man (mean 1658.84, max 3890); MSc thesis, two conferences | [Read →](https://andrii-maksymenko.com/projects/hybridea/) |
-| **Personal Finance Tracker** | Android app with Google sign-in and per-account data synced through Firebase | [Read →](https://andrii-maksymenko.com/projects/personal-finance-tracker/) |
